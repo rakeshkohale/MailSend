@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HtmlRichTextBox">
+</Property><Property Name="Solution File" Value="D:\Rakesh\CRM\hrt\HtmlRichTextBox.sln">
+</Property><Property Name="User Options File" Value="D:\Rakesh\CRM\hrt\HtmlRichTextBox.suo">
+</Property><Property Name="Date" Value="Monday, August 21, 2017">
+</Property><Property Name="Time" Value="13:20 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HtmlRichTextBox.sln" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBox.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HtmlRichTextBox.suo" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBox.suo">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj" Description="Project file successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj.user" Description="Project user file successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj.user">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\AssemblyInfo.cs" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\Class1.cs" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\Class1.cs">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\Form1.cs" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\Form1.cs">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBox.cs" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\HtmlRichTextBox.cs">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\App.ico" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\App.ico">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\Form1.resx" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\Form1.resx">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBox.resx" Description="File successfully backed up as D:\Rakesh\CRM\hrt\Backup\HtmlRichTextBoxTest\HtmlRichTextBox.resx">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HtmlRichTextBox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HtmlRichTextBox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HtmlRichTextBoxTest" Source="HtmlRichTextBoxTest\HtmlRichTextBoxTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
